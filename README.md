@@ -28,4 +28,6 @@ the ESPN Cricinfo Statsguru page.
 
 ![Image](https://github.com/user-attachments/assets/40a77258-6dd9-4d9d-bf31-9804b08ccd76)
 
+![Image](https://github.com/user-attachments/assets/e26a9e28-6874-4030-b667-d7c54c14acab)
+
 
