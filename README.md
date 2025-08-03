@@ -24,3 +24,6 @@ There was some tabular data which was basically being represented,
 
 the ESPN Cricinfo Statsguru page.
 
+![Image](https://github.com/user-attachments/assets/8f62861b-6520-459a-b1bf-19cca6958715)
+
+
